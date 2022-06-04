@@ -116,7 +116,7 @@
 
 <h2>  Simple Video Player  </h2>
 <ul>
-<h3><li><a href ="https://github.com/AvinandanBose/VideoPlayer">Major Project</a></li></h3>
+<h3><li><a href ="https://github.com/AvinandanBose/VideoPlayer">Video Player</a></li></h3>
 </ul>
 
 
