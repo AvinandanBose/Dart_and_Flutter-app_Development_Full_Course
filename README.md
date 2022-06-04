@@ -9,7 +9,13 @@
 <br>
 
 <h1><i><strong>Flutter Programming (Udemy)</strong></i></h1>
+<br>
 
+<h2>Course Structure : <a href="https://github.com/AvinandanBose/CourseStructure/blob/main/App%20Brewery%20Flutter%20Course%20Syllabus.pdf"> Course Structure </a></h2>
+<br>
+<h2>Flutter Cookbook :<a href="https://drive.google.com/file/d/14j9Pwc9-Y9Q9kS4bAze_UvrlhrE-RIY5/view?usp=sharing">Flutter Cookbook Flutter Over 100 proven techniques and solutions for app development with Flutter 2.2 and Dart (Simone Alessandria, Brian Kayfitz) </h2>
+ <br>
+  
 <h2> Starter Application using Flutter framework Understanding Stateful and Stateless Widget using Count Donut App </h2>
 
 <ul>
@@ -89,4 +95,28 @@
 <h3><li><a href ="https://github.com/AvinandanBose/todolistapp_final"> TodoList Final</a></li></h3>
 </ul>
 <br>
+
+<h1>++++++++++++++++++END++++++++++</h1>
+<h2> Completion Certificate</h2>
+<ul>
+<h3><li><a href ="https://www.udemy.com/certificate/UC-ed44df26-f6f5-4240-b216-fee8258caf30/">Completion Certificate</a></li></h3>
+</ul>
+<br>
+
+![UC-ed44df26-f6f5-4240-b216-fee8258caf30](https://user-images.githubusercontent.com/38869235/171985754-081b5e62-b298-4e6a-bf96-a7e8fd0e6504.jpg)
+
+
+<h1>++++++++++++++++++Bonus++++++++++</h1>
+
+<h2> Bundle App Major Project </h2>
+<ul>
+<h3><li><a href ="https://github.com/AvinandanBose/Bundle_App_MajorProject">Major Project </a></li></h3>
+</ul>
+<br>
+
+<h2>  Simple Video Player  </h2>
+<ul>
+<h3><li><a href ="https://github.com/AvinandanBose/VideoPlayer">Major Project</a></li></h3>
+</ul>
+
 
